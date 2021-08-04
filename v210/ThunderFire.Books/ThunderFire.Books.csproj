@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Als\ThunderFire.Als.csproj" />
+    <ProjectReference Include="..\ThunderFire\ThunderFire.csproj" />
+  </ItemGroup>
+
+</Project>
