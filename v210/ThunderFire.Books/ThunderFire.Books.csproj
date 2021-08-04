@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Als\ThunderFire.Als.csproj" />
+    <ProjectReference Include="..\ThunderFire.Als\ThunderFire.Als.csproj" />
     <ProjectReference Include="..\ThunderFire\ThunderFire.csproj" />
   </ItemGroup>
 
