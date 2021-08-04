@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThunderFire", "ThunderFire\ThunderFire.csproj", "{26392394-5D40-4684-84EA-3356AD69F1B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThunderFire", "v210\ThunderFire\ThunderFire.csproj", "{0B88E82E-5AD0-45DB-BE6F-967F72B8D7FC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThunderFire.Als", "ThunderFire.Als\ThunderFire.Als.csproj", "{6F3F4F1C-00A2-457B-9613-826060AC91F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThunderFire.Als", "v210\ThunderFire.Als\ThunderFire.Als.csproj", "{C1B5FA42-757F-4248-A7FE-836877A00588}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThunderFire.Books", "ThunderFire.Books\ThunderFire.Books.csproj", "{6D2CFDB7-294E-4768-810B-B53FDB344CA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThunderFire.Books", "v210\ThunderFire.Books\ThunderFire.Books.csproj", "{3615EF84-AFD0-4D18-A235-ED470A9CE6DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{26392394-5D40-4684-84EA-3356AD69F1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{26392394-5D40-4684-84EA-3356AD69F1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{26392394-5D40-4684-84EA-3356AD69F1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{26392394-5D40-4684-84EA-3356AD69F1B4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6F3F4F1C-00A2-457B-9613-826060AC91F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6F3F4F1C-00A2-457B-9613-826060AC91F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6F3F4F1C-00A2-457B-9613-826060AC91F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6F3F4F1C-00A2-457B-9613-826060AC91F0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6D2CFDB7-294E-4768-810B-B53FDB344CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6D2CFDB7-294E-4768-810B-B53FDB344CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6D2CFDB7-294E-4768-810B-B53FDB344CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6D2CFDB7-294E-4768-810B-B53FDB344CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B88E82E-5AD0-45DB-BE6F-967F72B8D7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B88E82E-5AD0-45DB-BE6F-967F72B8D7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B88E82E-5AD0-45DB-BE6F-967F72B8D7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B88E82E-5AD0-45DB-BE6F-967F72B8D7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B5FA42-757F-4248-A7FE-836877A00588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B5FA42-757F-4248-A7FE-836877A00588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B5FA42-757F-4248-A7FE-836877A00588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B5FA42-757F-4248-A7FE-836877A00588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3615EF84-AFD0-4D18-A235-ED470A9CE6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3615EF84-AFD0-4D18-A235-ED470A9CE6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3615EF84-AFD0-4D18-A235-ED470A9CE6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3615EF84-AFD0-4D18-A235-ED470A9CE6DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
